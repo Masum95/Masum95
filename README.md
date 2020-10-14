@@ -1,11 +1,10 @@
 
 
+<img src="https://raw.githubusercontent.com/Masum95/Masum95/main/intro.gif" style="width=100%">
 
 
-<img src="https://raw.githubusercontent.com/Masum95/Masum95/master/intro.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=Masum95)
 
->
 
 
 
